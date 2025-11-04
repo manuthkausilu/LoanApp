@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LoanApp",
-    "slug": "LoanApp",
+    "name": "LoanApp-V2",
+    "slug": "LoanApp-V2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -44,15 +44,14 @@
       "expo-web-browser"
     ],
     "experiments": {
-      "typedRoutes": true,
-      "reactCompiler": true
+      "typedRoutes": true
     },
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "5e426bc3-61e8-42e5-9a9b-1315f65d463b"
+        "projectId": "51a5aea2-8686-4dfb-856b-d5591a9f1b3a"
       }
     },
-    "owner": "manuth"
+    "owner": "rayff60"
   }
 }
