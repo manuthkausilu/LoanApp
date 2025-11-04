@@ -26,7 +26,6 @@ A modern mobile loan application management system built with Expo, React Native
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd LoanApp
    ```
 
 2. **Install dependencies**
