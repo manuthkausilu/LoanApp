@@ -1,0 +1,44 @@
+# Ignore standard folders
+.expo/
+node_modules/
+dist/
+android/
+ios/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local environment files
+.env
+
+# Ignore log files and other temporary files
+*.log
+*.jfm
+*.lock
+
+# System and user-specific files
+AppData/
+**/AppData/**
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+.expo/
+.expo-shared/
+
+# Testing
+coverage/
